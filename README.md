@@ -3,7 +3,7 @@ iOS 开发周报
 2016年06月13-17日
 ___
 
-###1.有关UITableViewCell分割线样式(这里我们只对默认separatorStyle进行讨论)
+1.有关UITableViewCell分割线样式(这里我们只对默认separatorStyle进行讨论)
 demo中将展现四个cell，为了进行演示现做如下处理
 
 * 第一个cell的分割线为默认状态
